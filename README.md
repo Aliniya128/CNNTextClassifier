@@ -26,5 +26,13 @@ pip install -r requirements.txt
 
 `python run.py --train`
 
+## 实验结果
+* acc
+![acc](results/acc.png)
+
+* loss
+![loss](results/loss.png)
+
+
 *本README.md中模型图来自* [这里](https://blog.csdn.net/spring_willow/article/details/80011161)
 若侵权请联系我删除。
