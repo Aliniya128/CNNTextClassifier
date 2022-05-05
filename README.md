@@ -25,3 +25,6 @@ pip install -r requirements.txt
 * 模型训练
 
 `python run.py --train`
+
+*本README.md中模型图来自* [这里](https://blog.csdn.net/spring_willow/article/details/80011161)
+若侵权请联系我删除。
